@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Techron</h1>
 <h3 align="center">Tech enthusiast | Budding Software Developer | ALX_SWE#12</h3>
 
-<p align="left"> <img src="https://github.com/Techron254/Techron254/issues/1#issue-1608339095" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" /> </p>
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techron254" alt="techron254" /></a> </p>
 
