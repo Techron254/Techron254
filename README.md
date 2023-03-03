@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Techron</h1>
 <h3 align="center">Tech enthusiast | Budding Software Developer | ALX_SWE#12</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techron254&label=Profile%20views&color=0e75b6&style=flat" alt="techron254](https://dribbble.com/shots/2194312-Hello-World?utm_source=Clipboard_Shot&utm_campaign=CameronFoxly&utm_content=Hello%2C%20World!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=CameronFoxly&utm_content=Hello%2C%20World!&utm_medium=Social_Share)" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techron254&label=Profile%20views&color=0e75b6&style=flat" alt="https://ellipsis.sis.smu.edu.sg/" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techron254" alt="techron254" /></a> </p>
 
