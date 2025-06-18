@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/techron254" target="blank"><img src="https://img.shields.io/twitter/follow/techron254?logo=twitter&style=for-the-badge" alt="techron254" /></a> </p>
 
-- 🔭 I’m currently working on **C**
+- 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **HTML,CSS, Javascript, C.**
 
