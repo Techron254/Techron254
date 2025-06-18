@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">Tech enthusiast | Budding Software Developer | ALX_SWE#12</h3>
+<h3 align="center">A full stack web developer | HTML| CSS | Javascript|</h3>
 
 <p align="left"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" /> </p>
 
