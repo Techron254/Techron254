@@ -2,7 +2,7 @@
 <h3 align="center">A full stack web developer | HTML| CSS | Javascript|</h3>
 
 <p align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" /> </p>
-<p align="center> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7jpduc4t8p08njcq8990.gif"/> </p>
+<p align="center> <img  width="900" height="650" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7jpduc4t8p08njcq8990.gif"/> </p>
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techron254" alt="techron254" /></a> </p>
 
