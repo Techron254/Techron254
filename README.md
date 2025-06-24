@@ -2,6 +2,7 @@
 <h3 align="center">A full stack web developer | HTML| CSS | Javascript|</h3>
 
 <p align="left"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" /> </p>
+<p align="right> <img src="https://media.licdn.com/dms/image/v2/D4D16AQEPGYtn2bT5Mw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675640360320?e=1756339200&v=beta&t=5oR7LP5d3t3Swl_R6_YJuGFWsox6r28tJjTM3bvTR1Q" /> </p>
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techron254" alt="techron254" /></a> </p>
 
@@ -11,7 +12,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **HTML,CSS, Javascript, C.**
+- 💬 Ask me about **HTML, CSS, JavaScript, C.
 
 - 📫 How to reach me **leonardronald04@gmail.com**
 
