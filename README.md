@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">A full stack web developer | HTML| CSS | Javascript|</h3>
+<h3 align="center">A front-end web developer working with HTML| CSS | Javascript|</h3>
 
 <p align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" /> </p>
 <p align="center> <img  width="900" height="650" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7jpduc4t8p08njcq8990.gif"/> </p>
